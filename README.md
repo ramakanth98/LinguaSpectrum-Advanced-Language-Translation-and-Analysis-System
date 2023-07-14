@@ -2,10 +2,10 @@
 
 Leveraged Natural Language Processing (NLP) and post-processing techniques to develop an efficient tool to translate, detect, break sentences and other functionalities that help in overcoming language barriers.
 
-# Overview 
+## Overview 
 The Language Translator is an efficient tool to translate, detect, break sentence and a few more functionalities that are useful to overcome language barrier. Parts of Natural Language Processing and Post Processing of text/corpus implements the translations and detection techniques before parsing. This project covers the major language processing functionalities in the form of APIs. We have created a visual representation of this APIs for the users to utilize the features. The features are self explanatory and simple to use.
 
-# Installation 
+## Installation 
 
 System Requirements : 
 Chrome Browser : Version 110.0.5481.177 (Official Build) (arm64) or higher

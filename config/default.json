@@ -1,0 +1,8 @@
+{
+    "translator":{
+        "subscriptionKey": "c9502a6db4114a0b9bef2566d2cfb370",
+        "endpoint": "https://api.cognitive.microsofttranslator.com/",
+        "location": "eastus"
+    }
+}
+
